@@ -9,5 +9,5 @@ HTML, CSS, JAVASCRIPT
 
 ## ✒️ Autores
 
-- [Lílyan Guedes] (https://github.com/LilyanGuedes)
-- [Samara Vitória] (https://github.com/iamsamarav)
+- [Lílyan Guedes](https://github.com/LilyanGuedes)
+- [Samara Vitória](https://github.com/iamsamarav)
