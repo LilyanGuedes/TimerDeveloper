@@ -5,3 +5,9 @@ Este projeto refere-se a um temporizador, efectua a contagem decrescente a parti
 ## 🛠️ Construído com
 
 HTML, CSS, JAVASCRIPT
+
+
+## ✒️ Autores
+
+- [Lílyan Guedes] (https://github.com/LilyanGuedes)
+- [Samara Vitória] (https://github.com/iamsamarav)
